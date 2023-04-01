@@ -6,15 +6,18 @@ Hello, i'm **Angel Mijares**. Actually living in **Maracay, Venezuela**, i'm 27 
 
 Here I show a little of what I have learned so far in this bootcamp 💎
 
-| Command name |  Description |
-| ------------ |--------------|
-| mkdir        | create a new directory |
-| touch        | create a new file |
+| Command name |  Description                        |
+| ------------ |-------------------------------------|
+| mkdir        | create a new directory              |
+| touch        | create a new file                   |
 | ls           | list of folders and files that exist|
-| cd           | change directory |
-| rm           | remove |
+| cd           | change directory                    |
+| rm           | remove                              |
 
 ## Alias 🔥
-
+```
 1. *rm = trash*
+```
+```
 2. *cl = clear*
+```
