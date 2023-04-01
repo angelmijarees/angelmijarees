@@ -1,16 +1,20 @@
-### Hi there 👋
+# Angel Mijares #3276
 
-<!--
-**angelmijarees/angelmijarees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Js Student 💣
 
-Here are some ideas to get you started:
+Hello, i'm **Angel Mijares**. Actually living in **Maracay, Venezuela**, i'm 27 years old. Since I was little I have always been attracted to technology, despite never being able to afford a degree as such, I never put it aside, I knew that at some point I could learn. And here I am, many years later, preparing to be a full stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here I show a little of what I have learned so far in this bootcamp 💎
+
+| Command name |  Description |
+| ------------ |--------------|
+| mkdir        | create a new directory |
+| touch        | create a new file |
+| ls           | list of folders and files that exist|
+| cd           | change directory |
+| rm           | remove |
+
+## Alias 🔥
+
+1. *rm = trash*
+2. *cl = clear*
